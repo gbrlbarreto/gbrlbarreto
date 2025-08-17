@@ -35,7 +35,6 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 
 
 ## 💻 Tecnologias e linguagens 
-
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,html,css,js,dart,docker)](https://skillicons.dev)
 
 ## 🚀 Frameworks e bibliotecas
