@@ -69,8 +69,8 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
   <a href="https://www.instagram.com/gbrl.barreto" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/gbrlbarreto" title="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/gbrlbarreto" title="GitHub">
+    <img target="_blank" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
