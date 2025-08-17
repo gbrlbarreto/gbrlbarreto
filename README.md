@@ -15,8 +15,6 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 
 ---
 
-<br>
-
 ## 🕹️ Gráfico de Contribuições - Pac-Man Style
 
 <picture>
