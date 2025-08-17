@@ -63,13 +63,13 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
   <a href="mailto:gbrlbarreto72@outlook.com" title="Outlook">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-barreto-pb/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gabriel-barreto-pb/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gbrl.barreto" title="Instagram">
+  <a href="https://www.instagram.com/gbrl.barreto" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/gbrlbarreto" title="GitHub">
+  <a href="https://github.com/gbrlbarreto" title="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
