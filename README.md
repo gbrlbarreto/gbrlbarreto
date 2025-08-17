@@ -4,6 +4,8 @@ Desenvolvedor formado em Ciência da Computação, com atuação em Back-end, co
 Busco transformar conhecimento em soluções reais e funcionais, sempre aprendendo com cada projeto e desafio.
 </p>
 
+---
+
 ## Sobre mim
 
 - 🎓 Graduado em Ciência da Computação pela Universidade Federal da Paraíba – UFPB.
@@ -12,6 +14,7 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 - 🌍 Explorando novas tecnologias e desenvolvendo projetos pessoais focados em soluções funcionais e escaláveis.
 
 ---
+
 <br>
 
 ## 🕹️ Gráfico de Contribuições - Pac-Man Style
@@ -24,8 +27,6 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 
 ---
 
-
-
 ## ⭐ GitHub Stats
 <a href="https://github.com/gbrlbarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlbarreto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -33,17 +34,19 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 
 
 
-## Tecnologias e linguagens 💻
+## 💻 Tecnologias e linguagens 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,html,css,js,dart,docker)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+## 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=angular,spring,django,flutter,bootstrap,vscode,postman,mysql,postgres)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
+---
 
+## Mais sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
