@@ -39,7 +39,7 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,flutter,jquery,mysql,postgres,postman,spring,sqlite)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas de desenvolvimento
-[![My Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=androidstudio,git,github,postman,vscode)](https://skillicons.dev)
 
 ---
 
