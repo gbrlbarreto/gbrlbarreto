@@ -30,7 +30,7 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrlbarreto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlbarreto&layout=compact&langs_count=6&theme=algolia"/>
 
-
+---
 
 ## 💻 Tecnologias e linguagens 
 [![My Skills](https://skillicons.dev/icons?i=css,dart,docker,html,java,js,npm,python,ts)](https://skillicons.dev)
