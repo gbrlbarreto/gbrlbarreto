@@ -36,7 +36,7 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 [![My Skills](https://skillicons.dev/icons?i=css,dart,docker,html,java,js,npm,python,ts)](https://skillicons.dev)
 
 ## 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,flutter,jquery,mysql,postgres,postman,spring,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,flutter,jquery,mysql,postgres,postman,spring,sqlite)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas de desenvolvimento
 [![My Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
