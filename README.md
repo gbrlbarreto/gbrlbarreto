@@ -74,6 +74,8 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
   </a>
 </p>
 
+---
+
 <div align="center">
   
   [![Gabriel Barreto's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gbrlbarreto&bg_color=0d1117&color=3d8cad&line=0ab5fc&point=0ab5fc&area=true&area_color=0ab5fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
