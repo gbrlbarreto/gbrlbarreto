@@ -33,13 +33,13 @@ Busco transformar conhecimento em soluções reais e funcionais, sempre aprenden
 ---
 
 ## 💻 Tecnologias e linguagens 
-[![My Skills](https://skillicons.dev/icons?i=css,dart,docker,html,java,js,npm,python,ts,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,dart,docker,html,java,js,npm,php,python,ts,wordpress)](https://skillicons.dev)
 
 ## 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,flutter,jquery,mysql,postgres,postman,spring,sqlite)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas de desenvolvimento
-[![My Tools](https://skillicons.dev/icons?i=androidstudio,git,github,postman,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,netlify,postman,vscode)](https://skillicons.dev)
 
 ---
 
